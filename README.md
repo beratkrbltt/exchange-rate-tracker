@@ -26,9 +26,9 @@ This project is built with **HTML, CSS, and Vanilla JavaScript** and demonstrate
 
 ---
 
-## 📸 Preview
+## 🎥 Preview
 
-> *(You can add screenshots or a live demo link here later)*
+![1](1.png)  
 
 ---
 
@@ -73,11 +73,6 @@ This project was created for **learning and portfolio purposes**, focusing on:
 
 ---
 
-## 📄 License
-
-This project is open-source and free to use for educational purposes.
-
----
 
 ## 👤 Author
 
