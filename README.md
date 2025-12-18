@@ -28,7 +28,7 @@ This project is built with **HTML, CSS, and Vanilla JavaScript** and demonstrate
 
 ## 🎥 Preview
 
-![1](1.png)  
+![1](screen.png)  
 
 ---
 
